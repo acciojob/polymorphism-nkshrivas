@@ -35,7 +35,7 @@ package com.driver;
 
 public class Main {
 
-    static class Product{
+    public static class Product{
         public int product(int x, int y) {
 //            System.out.println(x+" "+y);
             return x*y;
